@@ -11,7 +11,8 @@ int main()
 		if(a[i]<15 && a[i]%3==0)
 		{
 			mul *= a[i];
-			std::cout << mul << std::endl;
 		}
+				std::cout << mul << std::endl;
+
 	return 0;
 }
